@@ -1,6 +1,6 @@
 # HTTPF0RC3
 
-Script maded in python do make HTTP requests and view the response
+Script maded in python to make HTTP requests and view the response
 
 ### Execution
 
