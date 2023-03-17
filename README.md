@@ -1,20 +1,16 @@
 # HTTPF0RC3
 
-Script maded in python to make HTTP requests and view the response
+Script maded in python do make HTTP requests and view the response
 
 ### Execution
 
 The execution is simple
 ```sh
-python3 httpf0rc3.py 
+python3 httpf0rc3.py HOST PORT
 ```
 
-### **V1.0.0**
+### **V1.1.0**
 
-- Able to make HTTP requests to a specific host and port and view the response
-
-### Coming Soon
-
-- Make another request without executing the script again
-- Optimized ways to select the host and the port
-- Save the request and the response or one of them on a file
+- Make HTTP requests to a specific host and port and view the response
+- Abble to make multiple requests without executing the script again
+- Added some features
